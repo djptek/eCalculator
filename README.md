@@ -1,6 +1,6 @@
 # eCalculator
 
-Recursive calculation of e using a formula proposed by the Ramanujan Machine
+Recursive calculation of an approximation to e using a formula proposed by the Ramanujan Machine
 see https://arxiv.org/abs/1907.00205
 
 Expected output

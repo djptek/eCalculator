@@ -1,5 +1,5 @@
 /*
- * Recursive calculation of e using a formula proposed by the Ramanujan Machine
+ * Recursive calculation of approximation to e using a formula proposed by the Ramanujan Machine
  * see https://arxiv.org/abs/1907.00205
  */
 
